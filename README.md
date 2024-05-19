@@ -11,7 +11,7 @@ Maven 3.6 or higher
 
 ## Clone the Repository
 
-git clone https://github.com/SamuelPaschalson/library-management-system.git <br>
+git clone https://github.com/SamuelPaschalson/management-system.git <br>
 cd library-management-system
 
 ## Build the Project
